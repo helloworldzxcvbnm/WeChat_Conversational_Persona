@@ -59,7 +59,7 @@
 
 ### 2. 软件环境
 - 操作系统: Windows 11
-- PC微信版本：3.19.10.27
+- PC微信版本：3.9.10.27
 - Python: 3.11.4
 - PyTorch: 2.2+（GPU 版本）  
 - Transformers: 4.51.0  
@@ -142,4 +142,5 @@
 <img src='./img/3_chat_demo.png' width="20%" />
 
 ---
+
 
