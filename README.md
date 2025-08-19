@@ -125,7 +125,6 @@
 ### 2️⃣ 模型微调
 
 - **基模型**: `Qwen2.5-1.5B-Instruct`  
-- **微调耗时**: 3 小时 50 分钟 44 秒  
 - **训练脚本**: `train.py`  
 
 更多细节可参考 👉 [SwanLab 实验详情](https://swanlab.cn/@hhhhhh/wechat-chat-lora?utm_source=website_qr&utm_medium=qr_scan)
@@ -142,5 +141,6 @@
 <img src='./img/3_chat_demo.png' width="20%" />
 
 ---
+
 
 
